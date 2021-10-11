@@ -44,3 +44,4 @@ __A curated list of open technology projects for wind energy research.__
 - [ExaWind](https://iopscience.iop.org/article/10.1088/1742-6596/1452/1/012071) - A multifidelity modeling and simulation environment for wind energy. 注意：论文涉及代码较多，请自行查看.
 - [WindFLO](https://github.com/d9w/WindFLO) - APIs for the Wind Farm Layout Optimization competition.
 - [WindFLO](https://github.com/sohailrreddy/WindFLO) - Wind Farm Layout Optimization. 注意：暂不清楚与上一个软件有何关系，请自行查阅.
+- [HydroFlow-IBM](https://github.com/Lorces/HydroFlow-IBM) - 波流-结构物耦合的浸没边界法数值模拟研究开发与应用.
