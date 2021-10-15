@@ -45,3 +45,4 @@ __A curated list of open technology projects for wind energy research.__
 - [WindFLO](https://github.com/d9w/WindFLO) - APIs for the Wind Farm Layout Optimization competition.
 - [WindFLO](https://github.com/sohailrreddy/WindFLO) - Wind Farm Layout Optimization. 注意：暂不清楚与上一个软件有何关系，请自行查阅.
 - [HydroFlow-IBM](https://github.com/Lorces/HydroFlow-IBM) - 波流-结构物耦合的浸没边界法数值模拟研究开发与应用.
+- [WRF-IBM](https://github.com/LLNL/WRF-IBM) - The Weather Research and Forecasting model with the immersed boundary method.
