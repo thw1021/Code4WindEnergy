@@ -2,8 +2,6 @@
 # Open Source Code for Wind Energy Research
 __A curated list of open technology projects for wind energy research.__
 
-### Wind Turbines
-
 - [IEA-15-240-RWT](https://github.com/IEAWindTask37/IEA-15-240-RWT) - A 15 MW reference wind turbine repository developed in conjunction with IEA Wind.
 - [makani](https://github.com/google/makani) - A project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway.
 - [windpowerlib](https://github.com/wind-python/windpowerlib) - A library to model the output of wind turbines and farms.
