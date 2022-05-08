@@ -44,3 +44,4 @@ __A curated list of open technology projects for wind energy research.__
 - [WindFLO](https://github.com/sohailrreddy/WindFLO) - Wind Farm Layout Optimization. 注意：暂不清楚与上一个软件有何关系，请自行查阅.
 - [WRF-IBM](https://github.com/LLNL/WRF-IBM) - The Weather Research and Forecasting model with the immersed boundary method.
 - [CCBlade.jl](https://github.com/byuflowlab/CCBlade.jl) - Blade Element Momentum Method for Propellers and Turbines.
+- [HydroFlow-IBM](https://github.com/luosjtu/HydroFlow-IBM): HydroFlow 数值模型基于非结构网格、二阶 TVD 格式的有限体积法建立，主要应用于具有自由表面流动的物理问题数值模拟，如近海岸洋流、河流、湖泊等自然地表水系与环境相互影响的水动力学特征研究。
